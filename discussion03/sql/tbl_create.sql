@@ -2,7 +2,8 @@ DROP TABLE Teaches;
 DROP TABLE Instructor;
 DROP TABLE Course;
 
-
+set colsep '|'
+set linesize 150
 
 -- Instructor Table
 CREATE TABLE Instructor (
