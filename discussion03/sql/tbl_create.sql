@@ -1,6 +1,7 @@
+DROP TABLE Teaches;
 DROP TABLE Instructor;
 DROP TABLE Course;
-DROP TABLE Teaches;
+
 
 
 -- Instructor Table
